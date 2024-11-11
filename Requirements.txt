@@ -1,0 +1,19 @@
+# Software Requirements
+Windows 10 or above
+Python (version 3.x)
+Jupyter Notebook
+Anaconda Navigator
+
+# Python Libraries
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+matplotlib
+opencv-python
+
+# Hardware Requirements
+Intel i5 Processor or equivalent
+8 GB RAM (16 GB RAM recommended for higher performance)
+64-bit Operating System
