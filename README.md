@@ -19,7 +19,7 @@ The dataset consists of labeled images with various facial features that are ind
 - **Training Data**: Images with known health labels for training the model.
 - **Testing Data**: Images for evaluating model performance.
 
-**Note**: Due to privacy concerns, the dataset may not be publicly available.
+**Note**: As per privacy concerns, I have used images sourced from Google.
 
 ## Model Architecture
 We employ a deep learning model based on convolutional neural networks (CNN) to process facial images and predict potential diseases. Key aspects of the model include:
@@ -48,7 +48,7 @@ We employ a deep learning model based on convolutional neural networks (CNN) to 
    python main.py
 
 4. **View Results**:
-   Output images and prediction results will be stored in the output directory.
+   Output images with prediction results will be diaplayed.
 
 ## Results
 The model successfully predicted the following diseases based on facial features:
