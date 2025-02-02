@@ -69,5 +69,3 @@ These predictions were evaluated based on metrics such as accuracy, precision, a
 
 ## Contributors
 - **Naidu-2002** - Project lead and developer
-
-For more details, please contact the project contributors or check the project repository for updates.
