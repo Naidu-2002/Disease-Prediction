@@ -51,7 +51,7 @@ We employ a deep learning model based on convolutional neural networks (CNN) to 
    Output images with prediction results will be diaplayed.
 
 ## Results
-The model successfully predicted the following diseases based on facial features:
+The model successfully predicted the following types of diseases based on facial features:
 - **Beta Thalassemia**
 - **Hyperthyroidism**
 - **Down Syndrome**
